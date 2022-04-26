@@ -1,5 +1,11 @@
 # How does an increase in status affect the evaluation of quality?
 
+The code is written in Python 3.9.7 and all of its dependencies can be installed by running the following in the terminal (with the requirements.txt file included in this repository):
+
+```
+pip install -r requirements.txt
+```
+
 ### Initial finding:
 - An increase in status causes a decrease in the movie's average rating following the announcement of the award
   - As shown in the table, the ratings of award-winning movies after the winner is announced are on average 0.728 points (out of 10) lower than their nominated pairs
@@ -20,3 +26,6 @@
 
 3. Regression analysis 
 - Running the `regression.ipynb` () will generate the regression table as shown above.
+
+### How to cite the replication materials 
+Chui, H., Effects of status increase on the evaluation of quality, (2022), GitHub repository, https://github.com/macs30200-s22/replication-materials-hazelchc.git
