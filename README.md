@@ -13,7 +13,7 @@
 
 ### Details to replicate the findings:
 1. Data collection 
-- The code for scraping IMDB links and reviews for all movies can be found in [crawler.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/crawler.ipynb) . Running the code will produce `reviews.csv`().
+- The code for scraping IMDB links and reviews for all movies can be found in [crawler.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/crawler.ipynb) . Running the code will produce [reviews.csv](https://uchicagoedu-my.sharepoint.com/:x:/g/personal/hazelchui_uchicago_edu/Eb0jEbeHjmZOsIdAMiBb_rcBBcFSjC0U7KpMbCCI7I6p0Q?e=DWVsf2).
 
 2. Data cleaning
 - The code for cleaning (formatting movie names, handling missing data, constructing pre/post period, calculating average rating, counting review number, and merging) the scraped data can be found in [data_cleaning.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/data_cleaning.ipynb). Running the code will produce [final_data_2010_2019.csv](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/final_data_2010_2019.csv).
