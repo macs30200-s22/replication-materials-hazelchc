@@ -1,5 +1,9 @@
 # How does an increase in status affect the evaluation of quality?
 
+### Introduction to the research
+In this project, I would like to test whether an increase in status affects the evaluation of quality following the announcement of the award. I am using the difference-in-difference (DD) approach to compare changes in movie ratings over time between movies that won the award and the control movies that were nominated for the same award.
+
+
 ### Initial finding:
 - An increase in status causes a decrease in the movie's average rating following the announcement of the award
   - As shown in the table, the ratings of award-winning movies after the winner is announced are on average 0.728 points (out of 10) lower than their nominated pairs
