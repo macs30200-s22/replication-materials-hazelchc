@@ -13,4 +13,10 @@
 
 ### Details to replicate the findings:
 1. Data collection 
-- 
+- The code for scraping IMDB links and reviews for all movies can be found in `crawler.ipynb` (https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/crawler.ipynb). Running the code will produce `reviews.csv` ()
+
+2. Data cleaning
+- The code for cleaning (formatting movie names, handling missing data, constructing pre/post period, calculating average rating, counting review number, and merging) the scraped data can be found in `data_cleaning.ipynb` (). Running the code will produce `final_data_2010_2019.csv` ().
+
+3. Regression analysis 
+- Running the `regression.ipynb` () will generate the regression table as shown above.
