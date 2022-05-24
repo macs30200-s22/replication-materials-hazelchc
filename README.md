@@ -14,12 +14,12 @@ In this project, I would like to test whether an increase in status affects the 
   - As shown in Table 1, the ratings of award-winning movies after the winner is announced are on average 0.655 points (out of 10) lower than their nominated-only movies
   - The results are statistically significant (i.e. p-value < 0.01) 
 
-Table 1. Effect of Winning an Award on the rating before and after the award announcement
-![Screenshot 2022-05-23 at 9 37 37 PM](https://user-images.githubusercontent.com/89876546/169937301-e6c9d9dd-7dc5-43c6-9b5b-bc87860776ff.png)
+  Table 1. Effect of Winning an Award on the rating before and after the award announcement
+  ![Screenshot 2022-05-23 at 9 37 37 PM](https://user-images.githubusercontent.com/89876546/169937301-e6c9d9dd-7dc5-43c6-9b5b-bc87860776ff.png)
 
 - When there is an increase in the percentage point of the review number, winning movies are predicted to have a lower rating
   - As shown in Table 2, a percentage point increase in the no. of reviews is associated with a lower rating for winning movies, not the nominated only movies
-![Screenshot 2022-05-23 at 9 40 36 PM](https://user-images.githubusercontent.com/89876546/169937639-4c72cbb1-0009-4f23-b240-b1c373f66fd1.png)
+  ![Screenshot 2022-05-23 at 9 40 36 PM](https://user-images.githubusercontent.com/89876546/169937639-4c72cbb1-0009-4f23-b240-b1c373f66fd1.png)
 
 ### Relevance to the RQ:
 - The findings answer the research questions: getting an Oscars award leads to a decrease in the winning movie's rating after the award announcement. The reason for a shaper decrease in ratings may be due to the popularity of winnig movies, which attract more auidences of diverse tastes. The findings are in line with the existing studies on the dark side of attaining high organizational status.
