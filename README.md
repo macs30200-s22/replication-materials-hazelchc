@@ -31,7 +31,7 @@ In this project, I would like to test whether an increase in status affects the 
 - The code for scraping IMDB links and reviews for all movies can be found in [crawler.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/crawler.ipynb) . Running the code will produce [reviews.csv](https://uchicagoedu-my.sharepoint.com/:x:/g/personal/hazelchui_uchicago_edu/Eb0jEbeHjmZOsIdAMiBb_rcBjPIAtlaBR8F_QuQt6_bMDw?e=9cW7k1).
 
 2. Data cleaning
-- The code for cleaning (formatting movie names, handling missing data, constructing pre/post period, calculating average rating, counting review number, and merging) the scraped data can be found in [data_cleaning.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/data_cleaning.ipynb). Running the code will produce [final_data_2010_2019.csv](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/final_data_2010_2019.csv).
+- The code for cleaning (formatting movie names, handling missing data, constructing pre/post period, calculating average rating, counting review number, and merging) the scraped data can be found in [data_cleaning.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/data_cleaning.ipynb). Running the code will produce [final_decomp_2.csv](https://uchicagoedu-my.sharepoint.com/:x:/g/personal/hazelchui_uchicago_edu/EYHkT9HcPmVChhTDk3ov4RYBvDRUCoiRVqtHV6-8kRkMxQ?e=NmpWrs).
 
 3. Regression analysis 
 - Running the [regression.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/regression.ipynb) will generate the regression table as shown above.
