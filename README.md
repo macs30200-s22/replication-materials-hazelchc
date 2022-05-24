@@ -19,6 +19,8 @@ In this project, I would like to test whether an increase in status affects the 
 
 - When there is an increase in the percentage point of the review number, winning movies are predicted to have a lower rating
   - As shown in Table 2, a percentage point increase in the no. of reviews is associated with a lower rating for winning movies, not the nominated only movies
+
+  Table 2. Effect of winning an Award on selected variables after the award announcement
   ![Screenshot 2022-05-23 at 9 40 36 PM](https://user-images.githubusercontent.com/89876546/169937639-4c72cbb1-0009-4f23-b240-b1c373f66fd1.png)
 
 ### Relevance to the RQ:
