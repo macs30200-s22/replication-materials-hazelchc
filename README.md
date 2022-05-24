@@ -1,5 +1,10 @@
 # How does an increase in status affect the evaluation of quality?
 
+The code is written in Python 3.9.7 and all of its dependencies can be installed by running the following in the terminal (with the requirements.txt file included in this repository):
+```
+pip install -r requirements.txt
+```
+
 ### Introduction to the research
 In this project, I would like to test whether an increase in status affects the evaluation of quality following the announcement of the award. I am using the difference-in-difference (DD) approach to compare changes in movie ratings over time between movies that won the award and the control movies that were nominated for the same award.
 
