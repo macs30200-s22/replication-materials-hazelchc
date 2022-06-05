@@ -37,4 +37,4 @@ In this project, I would like to test whether an increase in status affects the 
 - Running the [regression.ipynb](https://github.com/macs30200-s22/replication-materials-hazelchc/blob/main/regression.ipynb) will generate the regression table as shown above.
 
 ### How to cite the replication materials 
-Chui, H., Effects of status increase on the evaluation of quality, (2022), GitHub repository, https://github.com/macs30200-s22/replication-materials-hazelchc.git
+Chui, H., An Honor or a Curse? Effect of Winning Awards on the Evaluation of Movies’ Quality, (2022), GitHub repository, https://github.com/macs30200-s22/replication-materials-hazelchc.git
